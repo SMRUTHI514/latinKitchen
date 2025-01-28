@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Add from './components/Add.Jsx'
+import Add from './components/Add.jsx'
 import Recipe from './components/Recipe'
 
 
